@@ -1,4 +1,0 @@
-Manifest-Version: 1.0
-Implementation-Title: spring-statemachine-data-jpa
-Implementation-Version: 3.2.1
-
